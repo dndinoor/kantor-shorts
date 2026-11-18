@@ -1,0 +1,6 @@
+1 (0-5): Tuas kopling kamu tarik jauh. Tapi di dalam, cuma geser beberapa milimeter. Kok bisa putus?
+2 (5-16): Motor umumnya pakai kopling basah. Pelatnya terendam oli. Isinya pelat gesek dan pelat baja, selang-seling. Pelat gesek nyangkut ke keranjang luar. Pelat baja ke hub dalam.
+3 (16-26): Tuas dilepas, pegas mendorong pelat penekan. Tumpukan pelat terjepit rapat. Gesekan antar pelat meneruskan tenaga mesin ke transmisi. Jadi aslinya, kopling itu nyambung.
+4 (26-34): Tuas ditarik, pelat penekan menjauh. Cuma beberapa milimeter. Pelat jadi bisa saling tergelincir. Putaran mesin pun terputus dari transmisi.
+5 (34-45): Jangan kebiasaan setengah kopling di tanjakan atau macet. Pelat nggak terjepit penuh, nggak lepas penuh. Hasilnya selip, panas, kampas cepat aus. Pakai rem. Netral kalau berhenti lama.
+6 (45-48): Follow buat bedah isi motor lainnya.
